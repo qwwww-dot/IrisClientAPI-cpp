@@ -1,6 +1,6 @@
 # IrisCPP Client API
 
-A C++ client library for interacting with the Iris API. This is a C++ =library for IrisClientAPI.
+A C++ client library for interacting with the Iris API. This is a C++ library for IrisClientAPI.
 
 ## Requirements
 
